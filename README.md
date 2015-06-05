@@ -11,3 +11,4 @@ The pipeline we are going to pursuit is the following:
 3. On "Pass all tests" on the build server, inject code into a docker image
 4. Deploy docker image onto a "docker server"
 5. Rejoice and drink beer
+6. Wash, Rinse, Repeat
